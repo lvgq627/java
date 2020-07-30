@@ -3,26 +3,27 @@ package com.neuedu.test.chapter2;
 public class test {
  public static void main(String[] args) {
 	
-	 //ÉùÃ÷±äÁ¿
+	 //å£°æ˜å˜é‡
 	 int a;
-	 //¸³Öµ
+	 //èµ‹å€¼
 	 a=10;
-	 //ÉùÃ÷±äÁ¿£¬¸³³õÖµ
+	 //å£°æ˜å˜é‡ï¼Œèµ‹åˆå€¼
 	 int b = 20;
 	 System.out.println(b);
 	 b = 30;
 	 b = 50;
 	 System.out.println(b);
-	 //ÉúÃüĞ¡Êı£¨double£©
+	 //ç”Ÿå‘½å°æ•°ï¼ˆdoubleï¼‰
 	 double x = 12.34;
 	 double y = 15.6789;
-	 //ÉùÃ÷×Ö·û´®ÀàĞÍ
+	 //å£°æ˜å­—ç¬¦ä¸²ç±»å‹
 	 String str = "haha";
 	 str = "hehe";
 	 System.out.println(x);
 	 System.out.println(str);
-	 //ÉèÖÃ³£Á¿
+	 //è®¾ç½®å¸¸é‡
 	 final double pi = 3.14;
+	  final double pi = 3.14;
 	 
 }
 }
