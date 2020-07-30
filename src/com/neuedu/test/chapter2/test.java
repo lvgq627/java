@@ -23,7 +23,7 @@ public class test {
 	 System.out.println(str);
 	 //设置常量
 	 final double pi = 3.14;
-	  final double pi = 3.14;
-	 
+	  
+	 System.out.println(str);
 }
 }
